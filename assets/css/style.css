@@ -1,0 +1,17 @@
+.anchor
+{
+    text-decoration: none;
+}
+
+.social
+{
+    display: inline;
+}
+
+.resume{
+    background-image: url("assets/images/resume.jpeg");
+    width: 1100px;
+    height: 400px;
+    border-style: none;
+    box-sizing: border-box;
+}
